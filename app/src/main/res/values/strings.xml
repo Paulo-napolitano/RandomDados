@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RandomDados</string>
+    <string name="btn_calcular">Jogar Dados</string>
+</resources>
